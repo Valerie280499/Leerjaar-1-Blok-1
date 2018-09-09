@@ -1,0 +1,6 @@
+ID,dosis(mg),medicijn
+1,8,aspirine
+2,16,aspirine
+3,2000,morfine
+
+Dit is een testregel voor aanvullenDit is een testregel voor aanvullen

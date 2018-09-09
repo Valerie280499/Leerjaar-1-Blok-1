@@ -1,0 +1,4 @@
+opdracht 4A
+
+MAFFT alignment INS Homo sapiens; Sus scrofa en Bos taurus:
+In de alignment zie je dat MAFFT per organisme elke regel onder elkaar zet en deze gaat vergelijken. Je ziet dat MAFFT soms 'gaten' maakt; dit geeft aan dat op deze plaatsen in een bepaalde sequentie een stuk aminozuur is 'weggevallen' maar het kan ook zo zijn dat een andere sequentie een (of meerdere) aminozuren erbij hebben gekregen.

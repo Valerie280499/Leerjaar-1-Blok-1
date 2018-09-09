@@ -1,0 +1,31 @@
+Vraag 1:
+pwd 
+/home/valerie
+
+Vraag 2:
+mkdir thematoets
+
+Vraag 3:
+cd thematoets
+cat > vraag3.txt 
+kopieer en plak
+Ctrl D
+
+Vraag 4:
+more -5 vraag3.txt
+
+Vraag 5:
+ls -l vraag3.txt
+-rw-rw-r--
+chmod ugo r--r--r-- vraag3.txt
+
+Vraag 6:
+ls -F .txt
+
+Vraag 7:
+rm vraag7.py vraag7_kopie.py
+chmod ugo rw------- vraag7_kopie.py
+
+Vraag 8:
+grep nunc 'vraag3.txt'
+
